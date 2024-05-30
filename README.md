@@ -3,6 +3,7 @@
 ###
 
 <p align="left">- Software Developer</p>
+<p align="left">- Project Manager</p>
 
 ###
 
